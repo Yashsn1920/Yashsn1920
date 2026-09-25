@@ -53,27 +53,31 @@ I care about taking an idea past the notebook: into a usable interface, a reprod
 </td>
 <td width="50%" valign="top">
 
-`Python` `ResNet18` `FedAvg`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/03-FFB000?style=flat-square" alt="03"> [Vehicle Eye](https://github.com/Yashsn1920/Vehicle-eye-)
+### <img src="https://img.shields.io/badge/02-FFB000?style=flat-square" alt="02"> [Vehicle Eye](https://github.com/Yashsn1920/Vehicle-eye-)
 
 **Computer-vision system for understanding vehicles in media.** Combines YOLOv8 detection with a ResNet classifier to estimate vehicle type, manufacturing decade, and dominant color across image, video, and webcam workflows.
 
 `Python` `YOLOv8` `OpenCV`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/04-EA4335?style=flat-square" alt="04"> India Trip Planner
+### <img src="https://img.shields.io/badge/03-FF6B35?style=flat-square" alt="03"> [FedLung](https://github.com/Yashsn1920/FedLung)
 
-**End-to-end ML travel planner for Indian trip expenses.** Combines flight, hotel, and activity models with seasonality, booking-window logic, AI travel guides, itineraries, maps, and a multilingual assistant.
+**Privacy-aware chest X-ray classification across simulated hospital clients.** Four non-IID clients train locally and share updates through Federated Averaging, with browser inference and confidence-aware results.
 
-`Python` `XGBoost` `Streamlit`
+`Python` `ResNet18` `FedAvg`
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/04-EA4335?style=flat-square" alt="04"> [Campus Connect](https://github.com/Yashsn1920/CampusZero-)
+
+**A focused campus experience built around a clean, engaging interface.** Campus Connect explores how thoughtful frontend design can make student-focused information and interaction easier to discover.
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
