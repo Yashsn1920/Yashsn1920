@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Yash Nahire - building ML systems, solving in C++, learning in public" width="100%">
+# Yash Nahire
 
 ### CSE student building practical ML systems, computer-vision tools, and reliable C++ solutions.
 
@@ -14,11 +14,6 @@
 </div>
 
 <br>
-
-<img src="https://img.shields.io/badge/Applied%20ML-2F81F7?style=flat-square" alt="Applied ML">
-<img src="https://img.shields.io/badge/Federated%20Learning-2DA44E?style=flat-square" alt="Federated Learning">
-<img src="https://img.shields.io/badge/Computer%20Vision-8957E5?style=flat-square" alt="Computer Vision">
-<img src="https://img.shields.io/badge/C%2B%2B%20%26%20DSA-F0883E?style=flat-square" alt="C++ and DSA">
 
 I am a computer science student who learns by building, testing, breaking, and rebuilding. My work sits at the intersection of **machine learning**, **privacy-aware systems**, **computer vision**, and **data structures in C++**.
 
@@ -36,7 +31,7 @@ I care about taking an idea past the notebook: into a usable interface, a reprod
 
 ## Featured Work
 
-### [FedFlow](https://github.com/Yashsn1920/FedFlow-) · <img src="https://img.shields.io/badge/Federated%20Systems-2DA44E?style=flat-square" alt="Federated Systems">
+### [FedFlow](https://github.com/Yashsn1920/FedFlow-)
 
 > A federated learning management platform for coordinating distributed model training across clients without centralizing raw data.
 
@@ -44,7 +39,7 @@ Project creation, client training-package generation, email-based delivery, upda
 
 **Python · Flask · PyTorch · TorchVision · Pandas · scikit-learn**
 
-### [FedLung](https://github.com/Yashsn1920/FedLung) · <img src="https://img.shields.io/badge/Deep%20Learning-D73A49?style=flat-square" alt="Deep Learning">
+### [FedLung](https://github.com/Yashsn1920/FedLung)
 
 > A privacy-aware research demonstration for binary chest X-ray classification across simulated hospital clients.
 
@@ -52,7 +47,7 @@ Four non-IID clients train locally and share model updates through FedAvg. The p
 
 **Python · PyTorch · ResNet18 · Federated Averaging · Flask · CUDA**
 
-### [Vehicle Eye](https://github.com/Yashsn1920/Vehicle-eye-) · <img src="https://img.shields.io/badge/Computer%20Vision-8957E5?style=flat-square" alt="Computer Vision">
+### [Vehicle Eye](https://github.com/Yashsn1920/Vehicle-eye-)
 
 > A computer-vision application that detects vehicles, estimates their manufacturing decade and dominant color, and flags older models.
 
@@ -60,7 +55,7 @@ The same pipeline is available through a Flask web app, a Tkinter desktop app, a
 
 **Python · YOLOv8 · PyTorch · ResNet · OpenCV · Flask**
 
-### India Trip Planner · <img src="https://img.shields.io/badge/End--to--End%20ML-2F81F7?style=flat-square" alt="End-to-end ML">
+### India Trip Planner
 
 > An end-to-end ML and AI travel-planning application for estimating the cost of an Indian trip.
 
@@ -68,7 +63,7 @@ Independent XGBoost models estimate flights and hotels, a Gradient Boosting mode
 
 **Python · XGBoost · scikit-learn · Streamlit · Plotly · Gemini API**
 
-### [LeetCode Submissions](https://github.com/Yashsn1920/leetcode-submissions) · <img src="https://img.shields.io/badge/Problem%20Solving-F0883E?style=flat-square" alt="Problem Solving">
+### [LeetCode Submissions](https://github.com/Yashsn1920/leetcode-submissions)
 
 > A difficulty-organized collection of Data Structures and Algorithms solutions, synced through LeetX Squads.
 
