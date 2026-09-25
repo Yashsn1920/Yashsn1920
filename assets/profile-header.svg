@@ -1,0 +1,49 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.48" stop-color="#102A43"/>
+      <stop offset="1" stop-color="#173B4D"/>
+      <animate attributeName="x1" values="0;140;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="130" y1="55" x2="1050" y2="215" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62D0FF"/>
+      <stop offset="0.5" stop-color="#7BE495"/>
+      <stop offset="1" stop-color="#FFCB77"/>
+      <animate attributeName="x2" values="1050;700;1050" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#B9E6FF" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <circle cx="1020" cy="42" r="100" fill="#62D0FF" fill-opacity="0.08">
+    <animate attributeName="cy" values="42;70;42" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1090" cy="206" r="145" fill="#7BE495" fill-opacity="0.06">
+    <animate attributeName="cx" values="1090;1040;1090" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0.9" filter="url(#glow)">
+    <circle cx="875" cy="74" r="3" fill="#62D0FF"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="946" cy="128" r="4" fill="#7BE495"><animate attributeName="opacity" values="1;0.25;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1042" cy="92" r="2.5" fill="#FFCB77"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="154" r="3" fill="#62D0FF"><animate attributeName="opacity" values="1;0.25;1" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <path d="M700 210C790 155 822 228 900 177C965 135 1014 183 1200 105" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 12" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="0;-76" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="72" y="112" fill="#F5FBFF" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">Yash Nahire</text>
+  <text x="76" y="151" fill="#B9D8E8" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1">BUILDING ML SYSTEMS • SOLVING IN C++ • LEARNING IN PUBLIC</text>
+  <rect x="76" y="181" width="190" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="190;250;190" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
