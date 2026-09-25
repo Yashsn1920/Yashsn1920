@@ -180,8 +180,4 @@ The repository is primarily C++ and covers problems involving arrays, strings, m
 
 [GitHub](https://github.com/Yashsn1920) · [LeetCode](https://leetcode.com/u/vesperina/) · [Email](mailto:yashsn87939@gmail.com)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashsn1920&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=57606a&icon_color=2f81f7&rank_icon=github" alt="Yash's GitHub statistics">
-
 </div>
