@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF3D00,50:FF6B35,100:FFD166&text=YASH%20NAHIRE&fontColor=111111&fontSize=52&fontAlignY=42&desc=AGENTIC%20AI%20%7C%20ML%20%7C%20FULL-STACK%20SYSTEMS&descAlignY=64&descSize=18&animation=twinkling" width="100%" alt="Yash Nahire banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF3D00,50:FF6B35,100:FFD166&text=YASH%20NAHIRE&fontColor=111111&fontSize=52&fontAlignY=42&desc=DSA%20%7C%20AGENTIC%20AI%20%7C%20APPLIED%20ML%20%7C%20FULL-STACK&descAlignY=64&descSize=18&animation=twinkling" width="100%" alt="Yash Nahire banner">
 
-### CSE student building agentic AI products, applied ML systems, and practical full-stack applications.
+### CSE student focused on DSA, agentic AI, applied ML, and building practical full-stack applications.
 
 <p>
 	<a href="https://github.com/Yashsn1920"><img src="https://img.shields.io/badge/GitHub-Yashsn1920-181717?style=flat-square&logo=github" alt="GitHub"></a>
 	<a href="https://leetcode.com/u/vesperina/"><img src="https://img.shields.io/badge/LeetCode-Vesperina-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 	<a href="mailto:yashsn87939@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-	<a href="https://github.com/Yashsn1920/VidhyaPath-"><img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_Applied_ML-2ea44f?style=flat-square" alt="Agentic AI and applied ML focus"></a>
+	<a href="https://leetcode.com/u/vesperina/"><img src="https://img.shields.io/badge/Focus-DSA_%7C_Agentic_AI_%7C_ML-2ea44f?style=flat-square" alt="DSA, agentic AI, and machine learning focus"></a>
 </p>
 
 <img src="https://img.shields.io/badge/BUILDING-FF3D00?style=for-the-badge" alt="Building">
@@ -37,7 +37,7 @@ I care about taking an idea beyond a prototype: into a usable product with a tho
 | **Federated learning** | Coordinating local client training, validating model updates, and aggregating shared weights without centralizing raw data. |
 | **Computer vision** | Vehicle detection and classification workflows for images, video, and webcam input. |
 | **Full-stack product development** | Building connected frontends, APIs, data layers, dashboards, and integrations into usable applications. |
-| **C++ and DSA** | Practicing core data structures, algorithms, complexity analysis, and problem-solving patterns. |
+| **C++ and DSA** | A core focus: solving problems consistently while strengthening data structures, algorithms, complexity analysis, and problem-solving patterns. |
 
 ## Featured Projects
 
@@ -161,10 +161,11 @@ Faculty materials are assembled into a trusted knowledge base; agents reconcile 
 
 ## Current Focus
 
+- Strengthening DSA and C++ problem-solving through consistent practice, with focus on core patterns and complexity analysis.
 - Designing reliable agentic workflows: grounded generation, source reconciliation, tool orchestration, and proactive learning support.
 - Connecting modern frontends, typed APIs, databases, and external services into complete products.
 - Improving ML evaluation, reproducibility, and responsible communication of model limitations across travel, vision, and federated-learning projects.
-- Deepening my understanding of federated optimization, computer vision, and C++ data structures and algorithms.
+- Deepening my understanding of federated optimization and computer vision alongside my ongoing DSA practice.
 
 ## Tech Stack
 
@@ -203,7 +204,7 @@ Faculty materials are assembled into a trusted knowledge base; agents reconcile 
 ## A Little More About Me
 
 - **Pronouns:** he/him
-- **Currently learning:** agentic AI engineering, full-stack systems, data preparation and ML evaluation, federated learning, and C++ problem solving
+- **Currently learning:** DSA and C++ problem solving, agentic AI engineering, full-stack systems, ML evaluation, and federated learning
 - **Approach:** understand the fundamentals, build a working version, inspect what fails, then improve it
 - **Open to:** thoughtful collaboration, technical conversations, and projects that turn ideas into useful software
 
